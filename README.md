@@ -12,7 +12,11 @@ O sistema se fundamenta no controle do acervo da biblioteca da empresa Wizard, c
 Especificação do papel de cada membro
 
 Maria Eduarda Barboza Santos: Cadastramento dos livros no sistema.
+
 Maria Luíza Costa Andrade: Cadastramento dos empréstimos.
+
 Sayonara Cavalcante dos Santos Almeida: Executar o status do livro (emprestado, livre ou atrasado).
+
 Ludmyla Alves Noles: Cadastramento dos alunos.
+
 Silvio Fernandes Carneiro Neto: Executar a visualização das informações do prazo de entrega e dos alunos.
